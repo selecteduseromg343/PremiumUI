@@ -1,7 +1,4 @@
--- GUI to Lua 
--- Version: 0.0.3
 
--- Instances:
 
 local ScreenGui = Instance.new("ScreenGui")
 local DragMain_1 = Instance.new("Frame")
